@@ -1,5 +1,5 @@
 from django.http import HttpResponse
-
+"""cfvbj;/'"""
 
 def index(request):
     return HttpResponse("Hello, Welcome to list of questions. Select your topic: history (main_screen/historyQ/)")
