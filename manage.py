@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """Django's command-line
-hutility for administrative tasks."""
+hutility for grjhuhyadministrative tasks."""
 import os
 import sys
 
